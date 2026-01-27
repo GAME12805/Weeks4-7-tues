@@ -21,7 +21,7 @@ public class UIDemo : MonoBehaviour
 
     public void ChangeColour()
     {
-        sr.color = Random.ColorHSV();
+        sr.color = Random.ColorHSV(); 
     }
 
     public void SetScale(float scale)
